@@ -1,13 +1,13 @@
 # Site settings
-title: "Jekyll Podcaster"
-description: "A Jekyll Theme designed for Podcasters"
-podcast-description: "A Jekyll Theme designed for Podcasters. This is your podcast's summary."
-url:  "https://jekyll-podcaster.netlify.app/" # Actual base url of the website
+title: "Minds and Machines"
+description: "A podcast about AI and large language models"
+podcast-description: "A podcast about AI and large language models"
+url:  "https://podcast.johndorion.com/" # Actual base url of the website
 baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
-  name: "Alessio Franceschi"
-  email: "alessiofranceschi2@gmail.com"
-  url: "https://alessiofranceschi.me"
+  name: "Sheyanne Barr, Elysia Carson, Charlie Do, John Dorion, Brandon Guerrero, Jonathan Hampton, Walter Horton, Meenakshi Malkar, Alisha Mccoy, Lillian Pierce, Mary Sharp, Ebony Wells"
+  email: "john@johndorion.com"
+  url: "https://podcast.johndorion.com"
 permalink: pretty
 permalink: /:title
 keywords: [podcast, jekyll]
@@ -28,30 +28,29 @@ sass:
 
 #SEO
 twitter:
-  username: PandaSekh
-  card: summary
+  username:
+  card:
 facebook:
   app_id: 
 logo: /assets/img/Podcast_Cover.png
 social:
-  name: Alessio Franceschi
+  name: Minds and Machines
   links:
-    - https://github.com/PandaSekh
-    - https://twitter.com/PandaSekh
-    - https://www.linkedin.com/in/alessio-franceschi/
+    - https://twitter.com/
+    - https://www.linkedin.com/
 lang: it
 
 #Podcast Metadata. Used by the RSS Feed, which currently isn't in use. So you can avoid this
-podcast_title: Jekyll Podcaster
-podcast_author: Alessio Franceschi
-podcast_email: alessiofranceschi2@gmail.com
-podcast_subtitle: "A Jekyll Theme designed for Podcasters"
-podcast_summary: "A Jekyll Theme designed for Podcasters. This is your podcast's summary."
-podcast_description: "A Jekyll Theme designed for Podcasters. This is your podcast's description."
+podcast_title: Minds and Machines
+podcast_author: Sheyanne Barr, Elysia Carson, Charlie Do, John Dorion, Brandon Guerrero, Jonathan Hampton, Walter Horton, Meenakshi Malkar, Alisha Mccoy, Lillian Pierce, Mary Sharp, Ebony Wells
+podcast_email: john@johndorion.com
+podcast_subtitle: "A podcast about AI and large language models"
+podcast_summary: "A podcast about AI and large language models"
+podcast_description: "A podcast about AI and large language models"
 podcast_explicit: "no"
 podcast_type: serial 
 podcast_lang: en
-podcast_launch: "2019-07-20" #Launch date of your podcast
-podcast_copyright: "&#xA9;Alessio Franceschi"
+podcast_launch: "2023-06-23" #Launch date of your podcast
+podcast_copyright: "&#xA9;Minds and Machines"
 podcast_feed: 
 podcast_artwork: "/assets/img/Podcast_Cover.png"
