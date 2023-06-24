@@ -26,7 +26,7 @@ websites-podcast:
   - {name: 'Breaker', link: '#'}  
   - {name: 'RSS', link: '#'}
 
-translate-date: true #See _includes/date.html to translate the months' name
+translate-date: false #See _includes/date.html to translate the months' name
 shownotes: true
 
 #Disqus
